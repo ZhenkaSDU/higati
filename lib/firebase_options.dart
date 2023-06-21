@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCCtnZp81FlAhjKoljz4rUZVISEsRi1fAc',
-    appId: '1:652840258954:android:eef29935b70ad323bb0c73',
-    messagingSenderId: '652840258954',
-    projectId: 'derbes-219af',
-    storageBucket: 'derbes-219af.appspot.com',
+    apiKey: 'AIzaSyAOq-FQd6vYqKPtz1OnmFhx_dHT9_6M5Lw',
+    appId: '1:959154953764:android:d236a05d9920c20fad02b1',
+    messagingSenderId: '959154953764',
+    projectId: 'kindergarden-e249d',
+    storageBucket: 'kindergarden-e249d.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAtMvwXX5RYab0mj9yhSxbx_N60MvMgKis',
-    appId: '1:652840258954:ios:46fbae9c6d9a20abbb0c73',
-    messagingSenderId: '652840258954',
-    projectId: 'derbes-219af',
-    storageBucket: 'derbes-219af.appspot.com',
-    iosClientId: '652840258954-joomf5jl5nj5q32o5ad99q8t5uod89or.apps.googleusercontent.com',
-    iosBundleId: 'com.example.derbes',
+    apiKey: 'AIzaSyChWJKG64062WwGQ6gBnyiKec4lgBLY_FM',
+    appId: '1:959154953764:ios:33ca81b8fdb80452ad02b1',
+    messagingSenderId: '959154953764',
+    projectId: 'kindergarden-e249d',
+    storageBucket: 'kindergarden-e249d.appspot.com',
+    iosClientId: '959154953764-7fvn9je20h7q4tkok5ca7i04ub3bggbh.apps.googleusercontent.com',
+    iosBundleId: 'com.example.parents',
   );
 }
